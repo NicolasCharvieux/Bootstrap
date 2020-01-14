@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+}
+
+#une {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+#deux {
+    margin-top: 1em;
+}
+
+#trois {
+    text-align: center;
+    margin-top: 1em;
+}
+
+#quatre {
+    background-color: rgba(135, 207, 235, 0.404);
+}
+
+.arround img {
+    border: solid black 4px;
+    border-radius: 50%;
+}
+
+#fondbleu {
+    background-color: rgba(135, 207, 235, 0.404);
+}
+
+#seul {
+    background-color: rgba(135, 207, 235, 0.404);
+    margin-top: 1em;
+}
